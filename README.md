@@ -9,7 +9,6 @@
 </p>
 
 # 🔥 Updates
-*   **[Coming Soon]** Paper will be released!
 *   **[Coming Soon]** Code will be released!
     
 
