@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-          🤗 <a href="https://huggingface.co/papers/2510.14847">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/2503.10076">Paper</a> 
+          🤗 <a href="https://huggingface.co/papers/2510.14847">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/2510.14847">Paper</a> 
 </p>
 
 # 🔥 Updates
